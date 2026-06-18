@@ -1,11 +1,10 @@
 PRODIGY_CS_02 - Image Encryption Tool
 
 Description:
+ - A Python program that encrypts and decrypts images using pixel manipulation technique.
+ - Each pixel's RGB values are modified using a secret key to encrypt the image.
+ - The same key reverses the process and recovers the original image.    
      
-     A Python program that encrypts and decrypts images using pixel manipulation technique.
-     Each pixel's RGB values are modified using a secret key to encrypt the image.
-     The same key reverses the process and recovers the original image.
-
 Features
 - Browse and select any image (JPG, PNG, BMP)
 - Encrypt image using a secret key number
